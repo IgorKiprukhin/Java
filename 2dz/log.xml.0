@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-24T16:46:39.160817600Z</date>
+  <millis>1682354799160</millis>
+  <nanos>817600</nanos>
+  <sequence>0</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 6, 0, 5, 8, 12, 45, 10, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.401813300Z</date>
+  <millis>1682354799401</millis>
+  <nanos>813300</nanos>
+  <sequence>1</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 6, 0, 5, 8, 12, 45, 10, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.413210700Z</date>
+  <millis>1682354799413</millis>
+  <nanos>210700</nanos>
+  <sequence>2</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 6, 5, 8, 12, 45, 10, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.413210700Z</date>
+  <millis>1682354799413</millis>
+  <nanos>210700</nanos>
+  <sequence>3</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 6, 5, 8, 12, 45, 10, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.418720100Z</date>
+  <millis>1682354799418</millis>
+  <nanos>720100</nanos>
+  <sequence>4</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 45, 10, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.418720100Z</date>
+  <millis>1682354799418</millis>
+  <nanos>720100</nanos>
+  <sequence>5</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 45, 10, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.425390400Z</date>
+  <millis>1682354799425</millis>
+  <nanos>390400</nanos>
+  <sequence>6</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 45, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.442900200Z</date>
+  <millis>1682354799442</millis>
+  <nanos>900200</nanos>
+  <sequence>7</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 45, 11, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.453262500Z</date>
+  <millis>1682354799453</millis>
+  <nanos>262500</nanos>
+  <sequence>8</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 11, 45, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.458298900Z</date>
+  <millis>1682354799458</millis>
+  <nanos>298900</nanos>
+  <sequence>9</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 11, 45, 5, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.459313600Z</date>
+  <millis>1682354799459</millis>
+  <nanos>313600</nanos>
+  <sequence>10</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 11, 5, 45, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.461406100Z</date>
+  <millis>1682354799461</millis>
+  <nanos>406100</nanos>
+  <sequence>11</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 11, 5, 45, 2]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.467824300Z</date>
+  <millis>1682354799467</millis>
+  <nanos>824300</nanos>
+  <sequence>12</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.472471200Z</date>
+  <millis>1682354799472</millis>
+  <nanos>471200</nanos>
+  <sequence>13</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[3, 1, 0, 5, 6, 8, 12, 10, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.474716700Z</date>
+  <millis>1682354799474</millis>
+  <nanos>716700</nanos>
+  <sequence>14</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 0, 5, 6, 8, 12, 10, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.478429600Z</date>
+  <millis>1682354799478</millis>
+  <nanos>429600</nanos>
+  <sequence>15</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 3, 0, 5, 6, 8, 12, 10, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.479660Z</date>
+  <millis>1682354799479</millis>
+  <nanos>660000</nanos>
+  <sequence>16</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 12, 10, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.484704400Z</date>
+  <millis>1682354799484</millis>
+  <nanos>704400</nanos>
+  <sequence>17</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 12, 10, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.493178100Z</date>
+  <millis>1682354799493</millis>
+  <nanos>178100</nanos>
+  <sequence>18</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 12, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.493178100Z</date>
+  <millis>1682354799493</millis>
+  <nanos>178100</nanos>
+  <sequence>19</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 12, 11, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.501211800Z</date>
+  <millis>1682354799501</millis>
+  <nanos>211800</nanos>
+  <sequence>20</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 11, 12, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.501211800Z</date>
+  <millis>1682354799501</millis>
+  <nanos>211800</nanos>
+  <sequence>21</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 11, 12, 5, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.501211800Z</date>
+  <millis>1682354799501</millis>
+  <nanos>211800</nanos>
+  <sequence>22</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 11, 5, 12, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.509178800Z</date>
+  <millis>1682354799509</millis>
+  <nanos>178800</nanos>
+  <sequence>23</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 11, 5, 12, 2, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.511774500Z</date>
+  <millis>1682354799511</millis>
+  <nanos>774500</nanos>
+  <sequence>24</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 11, 5, 2, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.517495400Z</date>
+  <millis>1682354799517</millis>
+  <nanos>495400</nanos>
+  <sequence>25</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[1, 0, 3, 5, 6, 8, 10, 11, 5, 2, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.525516400Z</date>
+  <millis>1682354799525</millis>
+  <nanos>516400</nanos>
+  <sequence>26</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 10, 11, 5, 2, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.533503600Z</date>
+  <millis>1682354799533</millis>
+  <nanos>503600</nanos>
+  <sequence>27</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 10, 11, 5, 2, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.533503600Z</date>
+  <millis>1682354799533</millis>
+  <nanos>503600</nanos>
+  <sequence>28</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 10, 5, 11, 2, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.541933800Z</date>
+  <millis>1682354799541</millis>
+  <nanos>933800</nanos>
+  <sequence>29</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 10, 5, 11, 2, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.541933800Z</date>
+  <millis>1682354799541</millis>
+  <nanos>933800</nanos>
+  <sequence>30</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 10, 5, 2, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.549964500Z</date>
+  <millis>1682354799549</millis>
+  <nanos>964500</nanos>
+  <sequence>31</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 10, 5, 2, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.557478900Z</date>
+  <millis>1682354799557</millis>
+  <nanos>478900</nanos>
+  <sequence>32</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 5, 10, 2, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.557478900Z</date>
+  <millis>1682354799557</millis>
+  <nanos>478900</nanos>
+  <sequence>33</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 5, 10, 2, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.565481Z</date>
+  <millis>1682354799565</millis>
+  <nanos>481000</nanos>
+  <sequence>34</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 5, 2, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.565481Z</date>
+  <millis>1682354799565</millis>
+  <nanos>481000</nanos>
+  <sequence>35</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 8, 5, 2, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.565481Z</date>
+  <millis>1682354799565</millis>
+  <nanos>481000</nanos>
+  <sequence>36</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 5, 8, 2, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.565481Z</date>
+  <millis>1682354799565</millis>
+  <nanos>481000</nanos>
+  <sequence>37</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 5, 8, 2, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.573746100Z</date>
+  <millis>1682354799573</millis>
+  <nanos>746100</nanos>
+  <sequence>38</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 5, 2, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.577110800Z</date>
+  <millis>1682354799577</millis>
+  <nanos>110800</nanos>
+  <sequence>39</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 6, 5, 2, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.577110800Z</date>
+  <millis>1682354799577</millis>
+  <nanos>110800</nanos>
+  <sequence>40</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 5, 6, 2, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.581988700Z</date>
+  <millis>1682354799581</millis>
+  <nanos>988700</nanos>
+  <sequence>41</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 5, 6, 2, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.585266800Z</date>
+  <millis>1682354799585</millis>
+  <nanos>266800</nanos>
+  <sequence>42</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 5, 2, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.590287100Z</date>
+  <millis>1682354799590</millis>
+  <nanos>287100</nanos>
+  <sequence>43</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 5, 2, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.590287100Z</date>
+  <millis>1682354799590</millis>
+  <nanos>287100</nanos>
+  <sequence>44</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 2, 5, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.590287100Z</date>
+  <millis>1682354799590</millis>
+  <nanos>287100</nanos>
+  <sequence>45</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 5, 2, 5, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.598310800Z</date>
+  <millis>1682354799598</millis>
+  <nanos>310800</nanos>
+  <sequence>46</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 2, 5, 5, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.598310800Z</date>
+  <millis>1682354799598</millis>
+  <nanos>310800</nanos>
+  <sequence>47</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 3, 2, 5, 5, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.606283500Z</date>
+  <millis>1682354799606</millis>
+  <nanos>283500</nanos>
+  <sequence>48</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 2, 3, 5, 5, 6, 8, 10, 11, 12, 45]</message>
+</record>
+<record>
+  <date>2023-04-24T16:46:39.685649800Z</date>
+  <millis>1682354799685</millis>
+  <nanos>649800</nanos>
+  <sequence>49</sequence>
+  <logger>task_1</logger>
+  <level>INFO</level>
+  <class>task_1</class>
+  <method>bubble_sort</method>
+  <thread>1</thread>
+  <message>[0, 1, 2, 3, 5, 5, 6, 8, 10, 11, 12, 45]</message>
+</record>
+</log>
