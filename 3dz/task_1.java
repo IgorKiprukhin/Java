@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.Random;
 
 
-public class Task_3_1 {
+public class task_1 {
     public static void main(String[] args) {
          LinkedList<Integer> list = new LinkedList<>();
         rand_add_list(10, 100, list);

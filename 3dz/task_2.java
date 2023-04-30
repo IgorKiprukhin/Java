@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Task_2_1 {
+public class task_2 {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         rand_add_list(10, 100, list);
